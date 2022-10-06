@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(43, 43, 43);
+}
+
+.calculator {
+    margin: auto;
+    width: 50%;
+}
+
+.headline {
+    margin: auto;
+    text-align: center;
+}
